@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow static instância 10000" x="0" y="0" width="190" height="176" pivotX="165.15" pivotY="8.15"/>
+	<SubTexture name="arrow static instância 20000" x="190" y="0" width="176" height="188" pivotX="8" pivotY="23"/>
+	<SubTexture name="arrow static instância 30000" x="366" y="0" width="176" height="190" pivotX="167.8" pivotY="165.05"/>
+	<SubTexture name="arrow static instância 40000" x="542" y="0" width="190" height="176" pivotX="23.05" pivotY="167.15"/>
+	<SubTexture name="blue hold end instância 10000" x="732" y="0" width="56" height="71" pivotX="2" pivotY="2"/>
+	<SubTexture name="blue hold piece instância 10000" x="788" y="0" width="54" height="54" pivotX="1" pivotY="7"/>
+	<SubTexture name="blue instância 10000" x="842" y="0" width="174" height="188" pivotX="14" pivotY="0"/>
+	<SubTexture name="down confirm instância 10000" x="1016" y="0" width="258" height="264" pivotX="45.05" pivotY="37.3"/>
+	<SubTexture name="down confirm instância 10001" x="1274" y="0" width="258" height="264"/>
+	<SubTexture name="down confirm instância 10002" x="1532" y="0" width="240" height="244" frameX="-7" frameY="-12" frameWidth="258" frameHeight="264"/>
+	<SubTexture name="down confirm instância 10003" x="1532" y="0" width="240" height="244" frameX="-7" frameY="-12" frameWidth="258" frameHeight="264"/>
+	<SubTexture name="down press instância 10000" x="1772" y="0" width="143" height="142" pivotX="16" pivotY="11" frameX="-16" frameY="-18" frameWidth="175" frameHeight="178"/>
+	<SubTexture name="down press instância 10001" x="1772" y="0" width="143" height="142" frameX="-16" frameY="-18" frameWidth="175" frameHeight="178"/>
+	<SubTexture name="down press instância 10002" x="0" y="264" width="175" height="178"/>
+	<SubTexture name="down press instância 10003" x="0" y="264" width="175" height="178"/>
+	<SubTexture name="green hold end instância 10000" x="175" y="264" width="56" height="70" pivotX="3" pivotY="2"/>
+	<SubTexture name="green hold piece instância 10000" x="231" y="264" width="53" height="55" pivotX="2" pivotY="8"/>
+	<SubTexture name="green instância 10000" x="284" y="264" width="176" height="188" pivotX="6" pivotY="17"/>
+	<SubTexture name="left confirm instância 10000" x="460" y="264" width="258" height="266" pivotX="59.85" pivotY="45.3"/>
+	<SubTexture name="left confirm instância 10001" x="718" y="264" width="248" height="256" frameX="-5" frameY="-7" frameWidth="258" frameHeight="266"/>
+	<SubTexture name="left confirm instância 10002" x="966" y="264" width="254" height="262" frameX="-3" frameY="-1" frameWidth="258" frameHeight="266"/>
+	<SubTexture name="left confirm instância 10003" x="966" y="264" width="254" height="262" frameX="-3" frameY="-1" frameWidth="258" frameHeight="266"/>
+	<SubTexture name="left press instância 10000" x="1220" y="264" width="157" height="151" pivotX="15" pivotY="15" frameX="-9" frameY="-15" frameWidth="175" frameHeight="181"/>
+	<SubTexture name="left press instância 10001" x="1220" y="264" width="157" height="151" frameX="-9" frameY="-15" frameWidth="175" frameHeight="181"/>
+	<SubTexture name="left press instância 10002" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10003" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10004" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10005" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10006" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10007" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10008" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10009" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10010" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10011" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10012" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10013" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10014" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10015" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10016" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10017" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10018" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="left press instância 10019" x="1377" y="264" width="175" height="181"/>
+	<SubTexture name="pruple end hold instância 10000" x="1552" y="264" width="57" height="75" pivotX="3" pivotY="8"/>
+	<SubTexture name="purple hold piece instância 10000" x="1609" y="264" width="58" height="53" pivotX="6" pivotY="7"/>
+	<SubTexture name="purple instância 10000" x="1667" y="264" width="175" height="188" pivotX="21" pivotY="13"/>
+	<SubTexture name="red hold end instância 10000" x="1842" y="264" width="55" height="71" pivotX="2" pivotY="4"/>
+	<SubTexture name="red hold piece instância 10000" x="1897" y="264" width="59" height="54" pivotX="-5" pivotY="-3"/>
+	<SubTexture name="red instância 10000" x="0" y="530" width="174" height="188" pivotX="7" pivotY="12"/>
+	<SubTexture name="right confirm instância 10000" x="174" y="530" width="255" height="248" pivotX="42.8" pivotY="37.35" frameX="0" frameY="-3" frameWidth="267" frameHeight="251"/>
+	<SubTexture name="right confirm instância 10001" x="429" y="530" width="255" height="248" frameX="0" frameY="-3" frameWidth="267" frameHeight="251"/>
+	<SubTexture name="right confirm instância 10002" x="684" y="530" width="257" height="250" frameX="-10" frameY="0" frameWidth="267" frameHeight="251"/>
+	<SubTexture name="right confirm instância 10003" x="684" y="530" width="257" height="250" frameX="-10" frameY="0" frameWidth="267" frameHeight="251"/>
+	<SubTexture name="right press instância 10000" x="941" y="530" width="162" height="157" pivotX="16" pivotY="9" frameX="-6" frameY="-10" frameWidth="174" frameHeight="177"/>
+	<SubTexture name="right press instância 10001" x="941" y="530" width="162" height="157" frameX="-6" frameY="-10" frameWidth="174" frameHeight="177"/>
+	<SubTexture name="right press instância 10002" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10003" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10004" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10005" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10006" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10007" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10008" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10009" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10010" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10011" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10012" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10013" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10014" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10015" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10016" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10017" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10018" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10019" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10020" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10021" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10022" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10023" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10024" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10025" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="right press instância 10026" x="1103" y="530" width="174" height="177"/>
+	<SubTexture name="up confirm instância 10000" x="1277" y="530" width="257" height="260" pivotX="42.85" pivotY="60.65"/>
+	<SubTexture name="up confirm instância 10001" x="1534" y="530" width="257" height="260"/>
+	<SubTexture name="up confirm instância 10002" x="1791" y="530" width="234" height="237" frameX="-11" frameY="-12" frameWidth="257" frameHeight="260"/>
+	<SubTexture name="up confirm instância 10003" x="1791" y="530" width="234" height="237" frameX="-11" frameY="-12" frameWidth="257" frameHeight="260"/>
+	<SubTexture name="up press instância 10000" x="0" y="790" width="148" height="153" pivotX="9" pivotY="13" frameX="-14" frameY="-13" frameWidth="176" frameHeight="179"/>
+	<SubTexture name="up press instância 10001" x="0" y="790" width="148" height="153" frameX="-14" frameY="-13" frameWidth="176" frameHeight="179"/>
+	<SubTexture name="up press instância 10002" x="148" y="790" width="176" height="179"/>
+	<SubTexture name="up press instância 10003" x="148" y="790" width="176" height="179"/>
+</TextureAtlas>

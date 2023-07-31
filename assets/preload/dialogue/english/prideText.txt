@@ -1,0 +1,157 @@
+[Phone::0.2]
+[Phone::1]
+null::null::(Pablo opens his eyes, lying on his bed with the blanket covering his left leg)
+null::null::(Pablo looks to the side and sees the alarm clock going off)
+null::null::(Gets up and turns off the alarm clock)
+null::null::...
+[Flashback of Syouko talking about the phone]
+null::null::How did she know?
+null::null::It's impossible, there's no way for her to know, right?
+[Silence]
+null::null::Something weird is happening here.
+null::null::I need to find Syouko.
+null::null::I need answers.
+null::null::Maybe I'll find her at the lake. It's her favorite place after all.
+[Time skip.]
+[Steps]
+[Pablo arrives at the lake but only finds a wooden chair on the floor.]
+null::null::It's here. This is where yesterday's picnic took place.
+null::null::... Wait.
+(He looks around)
+null::null::...Where's the lake? 
+null::null::Did I go in the wrong direction?
+null::null::I was sure it was here...
+[He stares at the chair.]
+null::null::This wasn't here before.
+null::null::Where did that chair come from?
+[Silence]
+null::null::I better put that aside.
+null::null::I'll look elsewhere.
+[Pablo looks around.]
+null::null::Hey, what 's that?
+[He sees something suspicious not far away.]
+null::null::Interesting...
+[Steps]
+[Pablo finds a door in the middle of the lawn.]
+null::null::That 's new.
+null::null::Why is there a door in the middle of nowhere?
+null::null::…
+null::null::Maybe she's in here.
+[He opens the door.]
+[The door takes you to a different place, an endless sea with a completely white sky.]
+null::null::Wow! This is strangely beautiful.
+[He looks around for a few seconds.]
+null::null::SYOUKO! ARE YOU HERE?
+null::null::SYOUKO!
+null::null::...
+null::null::Nothing.
+null::null::Where is she?
+[Someone pushes Pablo, causing him to fall into the sea]
+null::null::!
+[Vision is blurry for a few seconds]
+null::null::WHAT THE-
+[He manages to get out of the water]
+null::null::*COF* *COF* WHAT HAPPENED??
+null::null::Who pushed me?
+[He looks back]
+null::null::... 
+null::null::You gotta be kidding me.
+null::null::Where 's the door?
+null::null::It can't just disappear like that.
+null::null::Where did it go??
+[Silence]
+null::null::Im stuck...
+[Silence]
+null::null::HELLO!?
+null::null::IS ANYONE THERE!?
+null::null::IF ANYONE IS LISTENING, I NEED HELP!
+[Silence]
+null::null::Okay, calm down. I can't be stuck here. there has to be a way out somewhere.
+null::null::I just need to look for it.
+[Silence]
+[It is possible to see a man in the distance]
+null::null::!
+null::null::I knew I wasn't alone
+null::null::HEY! SIR! 
+[Player approaches mysterious figure]
+Laith::back::...
+null::null::... Who are you?
+(He turns slowly.)
+Laith::back_look::Are we really going to play this little game?
+null::null::... What are you talking about?
+Laith::back::*Sigh* If that's how you prefer.
+Laith::front::You may call me Laith, if that name pleases you.
+null::null::...I need to know how to get out of here.
+Laith::front::You can't.
+null::null::What?
+Laith::front::You can't get out.
+null::null::Why not??
+Laith::front::Your time has not come yet.
+Laith::front::The doors will open for you when you're ready.
+null::null::Look, I need to find a friend of mine.
+null::null::I can't stay here, I have to leave this place.
+Laith::front::I don't care.
+Laith::front::And even if I did, I can't do anything about it.
+null::null::...
+null::null::What do I need to do for the doors to open?
+[Silence]
+Laith::front::Your mind is confused, messy and unstable.
+Laith::front::Resolve your internal conflicts, and then the way out will appear.
+null::null::... My mind is not messed up.
+null::null::And I have no conflicts.
+Laith::front::So you will spend a lot of time here.
+[Silence]
+null::null::You want to keep me here?
+Laith::front::I'm not the one keeping you here.
+null::null::But it seems so.
+Laith::looking_down::*sigh* So many years have passed, but you still act in the same stupid way.
+Laith::front::Your ego is so inflated that it has blinded you.
+Laith::back_look::Now, if you'll excuse me.
+null::null::Hey! Where are you going?
+Laith::back::I have too many things to do, I can't waste time with side conversations.
+null::null::Are you going to leave me here and go away?
+null::null::You can't do that!
+[He stops and turns around.]
+Laith::back_look::Why?
+Laith::back_look::I have no reason to help you.
+Laith::front::Do you really think I'm going to waste my precious time with you?
+null::null::What is your problem?
+Laith::front::You know the answer very well.
+[Silence]
+Laith::looking_down::*sigh* How long will this last?
+Laith::front::I'll be direct.
+Laith::front::Why are you doing this?
+null::null::... What do you mean?
+Laith::front::I know you're hiding something.
+Laith::front::What 's your goal?
+null::null::I already told you, I need to find a friend.
+Laith::front::No. This is a parallel goal.
+Laith::front::It's part of your game.
+Laith::front::What I want to know is:
+Laith::front::What is your real goal?
+null::null::I can't tell.
+Laith::front::Why not?
+null::null::…
+[Silence]
+Laith::front::I see. It's not just shame.
+Laith::front::It 's anguish.
+Laith::front::You never forgave yourself after that day.
+Laith::front::After you abandoned her.
+[Silence]
+null::null::... What...?
+Laith::front::It must have been hard for you.
+null::null::No.
+null::null::There's no way for you to know that.
+null::null::This is impossible.
+Laith::front::Pablo. Keep Calm.
+Laith::front::It is possible.
+null::null::SHUT UP!
+null::null::YOU JUST WANT TO MESS WITH ME!
+null::null::YOU WANT TO MESS WITH MY HEAD!
+Laith::front::Pablo.
+null::null::DON'T COME NEAR ME!
+Laith::front::Open your eyes, Pablo.
+null::null::STOP!
+Laith::front::You need to face it.
+null::null::NO NO NO NO NO NO NO NO-
+[Screen goes dark]

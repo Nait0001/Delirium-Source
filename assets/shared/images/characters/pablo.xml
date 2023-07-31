@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pablo.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="271" y="1204" width="270" height="590" frameX="-122" frameY="-58" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="idle0001" x="824" y="0" width="277" height="585" frameX="-118" frameY="-63" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="idle0002" x="547" y="0" width="277" height="586" frameX="-118" frameY="-62" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="idle0003" x="1378" y="0" width="273" height="590" frameX="-120" frameY="-58" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="idle0004" x="0" y="1204" width="271" height="591" frameX="-121" frameY="-57" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="down0000" x="541" y="1204" width="278" height="572" frameX="-118" frameY="-76" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="down0001" x="2182" y="0" width="274" height="577" frameX="-120" frameY="-71" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="left0000" x="1098" y="613" width="276" height="583" frameX="-115" frameY="-65" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="left0001" x="546" y="613" width="276" height="584" frameX="-116" frameY="-64" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="right0000" x="272" y="0" width="275" height="591" frameX="-120" frameY="-57" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="right0001" x="273" y="613" width="273" height="591" frameX="-121" frameY="-57" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="up0000" x="1651" y="598" width="265" height="603" frameX="-123" frameY="-45" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="up0001" x="1651" y="0" width="268" height="598" frameX="-122" frameY="-50" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="baixo0000" x="819" y="1204" width="277" height="572" frameX="-119" frameY="-76" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="baixo0001" x="2182" y="577" width="274" height="577" frameX="-120" frameY="-71" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="esquerda0000" x="1101" y="0" width="277" height="584" frameX="-112" frameY="-64" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="esquerda0001" x="822" y="613" width="276" height="584" frameX="-116" frameY="-64" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="direita0000" x="0" y="0" width="272" height="613" frameX="-123" frameY="-35" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="direita0001" x="0" y="613" width="273" height="591" frameX="-121" frameY="-57" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="cima0000" x="1919" y="0" width="263" height="603" frameX="-124" frameY="-45" frameWidth="500" frameHeight="660"/>
+	<SubTexture name="cima0001" x="1378" y="590" width="268" height="598" frameX="-122" frameY="-50" frameWidth="500" frameHeight="660"/>
+</TextureAtlas>

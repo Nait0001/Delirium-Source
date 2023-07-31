@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="graas.png">
+<SubTexture name="graas idle0000" x="0" y="204" width="1280" height="203" frameX="0" frameY="-517" frameWidth="1280" frameHeight="720" />
+<SubTexture name="graas idle0001" x="0" y="0" width="1280" height="204" frameX="0" frameY="-516" frameWidth="1280" frameHeight="720" />
+<SubTexture name="graas idle0002" x="0" y="407" width="1280" height="203" frameX="0" frameY="-517" frameWidth="1280" frameHeight="720" />
+<SubTexture name="graas idle0003" x="0" y="610" width="1280" height="203" frameX="0" frameY="-517" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

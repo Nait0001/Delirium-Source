@@ -1,0 +1,7 @@
+null::null::Empty.
+null::null::Everything is empty.
+null::null::And it scares me.
+null::null::Please don't turn off the lights.
+null::null::Because I'm afraid of the dark
+[Pause::1]
+null::null::I feel…
